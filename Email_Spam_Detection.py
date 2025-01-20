@@ -12,7 +12,7 @@ st.set_page_config(page_title="Email Spam Detector", layout="wide")
 
 # Title of the application
 st.title("Email Spam Detection - [@suraj_nate](https://www.instagram.com/suraj_nate/) 👀")
-st.markdown("A machine learning application to detect spam emails using a pre-trained model.")
+st.markdown("A machine learning application to detect spam emails")
 
 # Loading the pre-trained model and vectorizer
 try:
